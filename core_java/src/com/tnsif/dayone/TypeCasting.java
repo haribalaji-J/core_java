@@ -37,8 +37,4 @@ public class TypeCasting {
         char ch1 = (char) b1;
         System.out.println(ch1);
 	}
-
-
-	}
-
 }

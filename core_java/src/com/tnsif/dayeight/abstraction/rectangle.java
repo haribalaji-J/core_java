@@ -1,14 +1,14 @@
 package com.tnsif.dayeight.abstraction;
 
-public class Rectangle extends Shape{
+public class rectangle extends shape{
 	private float width, height;
 
-	public Rectangle() {
+	public rectangle() {
 		this.width = 5.0f;
 		this.height = 2.0f;
 	}
 
-	public Rectangle(float width, float height) {
+	public rectangle(float width, float height) {
 		this.width = width;
 		this.height = height;
 	}

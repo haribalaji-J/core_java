@@ -36,8 +36,4 @@ public class PrimitiveDatatype {
         boolean flag=false;
         System.out.println("\nboolean value is "+flag);
 	}
-
-
-	}
-
 }

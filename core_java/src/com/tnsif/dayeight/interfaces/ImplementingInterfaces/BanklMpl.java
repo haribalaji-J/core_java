@@ -20,6 +20,4 @@ public class BankImpl implements Bank {
 		 else
 			 System.out.println("Insufficient balance in account: " + account.getAccNo());
 	 }
-	}
-
 }

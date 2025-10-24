@@ -11,5 +11,5 @@ public class extendinginterfaceDemo {
 		public void show() {
 			System.out.println("show Method");
 		}
-
+	}
 }

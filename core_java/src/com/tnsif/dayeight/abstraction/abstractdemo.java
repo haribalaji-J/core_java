@@ -3,8 +3,8 @@ package com.tnsif.dayeight.abstraction;
 public class abstractdemo {
 
 	public static void main(String[] args) {
-		Square sq=new Square();
-		Rectangle r1=new Rectangle();
+		square sq=new square();
+		rectangle r1=new rectangle();
 		sq.calArea();
 		sq.show();
 		r1.calArea();
@@ -14,24 +14,15 @@ public class abstractdemo {
 		//Runtime Polymorphism / Dynamic binding / late binding
 		//Ex: Method Overriding
 		
-		Shape shape;
-		shape=new Square(12.5f);
+		shape shape;
+		shape=new square(12.5f);
 		
 		shape.calArea(); // invoked Square class calArea()
 		shape.show();
 		
-		shape=new Rectangle(10,20);
+		shape=new rectangle(10,20);
 		
 		shape.calArea(); // invoked Rectangle class calArea()
 		shape.show();
-		
-		
-		
-		
-		
-
 	}
-
-	}
-
 }

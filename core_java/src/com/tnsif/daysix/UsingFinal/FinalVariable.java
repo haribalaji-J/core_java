@@ -26,6 +26,4 @@ public class FinalVariable {
 		Z = 100; // Once intialized can't be reassigned
 		System.out.println("Value of Y: " + Y);
 	}
-
-
 }

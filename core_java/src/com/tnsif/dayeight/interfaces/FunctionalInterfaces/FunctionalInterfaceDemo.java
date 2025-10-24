@@ -6,7 +6,7 @@ public class FunctionalInterfaceDemo {
 		System.out.println(g.greet());
 
 		//using Lambda Expression
-		GreetInterface g1 = () -> {
+		Greetlnterface g1 = () -> {
 			return "Good Afternoon";
 		};
 

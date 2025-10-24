@@ -50,14 +50,4 @@ public Customer(String customerName, int customerId, String customerCity) {
 		return "Customer [customerName=" + customerName + ", customerId=" + customerId + ", customerCity="
 				+ customerCity + "]";
 	}
-	
-	
-	
-	
-}
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-	}
-
 }

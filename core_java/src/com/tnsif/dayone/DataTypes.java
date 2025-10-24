@@ -19,7 +19,4 @@ public class DataTypes {
         System.out.println("percentage :" + percentage);
 
 	}
-
-	}
-
 }

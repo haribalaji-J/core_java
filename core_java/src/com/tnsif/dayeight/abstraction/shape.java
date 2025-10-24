@@ -1,6 +1,6 @@
 package com.tnsif.dayeight.abstraction;
 
-public abstract class Shape {
+public abstract class shape {
     protected float area;
     
     //abstract method 

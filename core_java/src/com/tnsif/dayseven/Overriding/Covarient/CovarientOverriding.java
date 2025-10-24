@@ -28,5 +28,5 @@ public class CovarientOverriding {
 			Red r2 = r1.getColor();
 			System.out.println(r2);
 		}
-
+	}
 }

@@ -13,7 +13,7 @@ public class CovarientOverridingDemo {
 			// assuming type casting is required
 			Student student2 = (Student) student1.clone();
 			student2.printData();
-
+			
+		}
 	}
-
 }
